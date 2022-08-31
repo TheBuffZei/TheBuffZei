@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @TheBuffZei
-- 👀 I’m interested in learning Game Dev and App Dev
+- 👀 I’m interested in learning App Development
 - 🌱 I’m currently learning Java
 - 📫 You can reach me on Discord, TheBuffzei#3166
